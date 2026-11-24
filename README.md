@@ -66,7 +66,9 @@ if __name__ == "__main__":
 ```
 
 ## Output:
-![alt text](<Screenshot 2026-11-24 102855.png>)
+
+![Uploading image.png…]()
+
 
 ## Result:
 Thus, the solution for the Water Jug problem is successfully solved in 7 steps using a Python program.
