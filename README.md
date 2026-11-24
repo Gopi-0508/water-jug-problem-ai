@@ -67,7 +67,8 @@ if __name__ == "__main__":
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="1492" height="477" alt="image" src="https://github.com/user-attachments/assets/62973fde-ce2e-40e6-ad21-e602ac37115c" />
+
 
 
 ## Result:
